@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Mostafa Heidari</h1>
-<h3 align="center">I’m currently learning: C#</h3>
+<h3 align="center">I’m currently learning: Flutter and Dart</h3>
 
 - 📫 How to reach me **https://www.linkedin.com/feed/**
 
