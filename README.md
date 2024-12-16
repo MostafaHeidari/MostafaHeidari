@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa Heidari</h1>
 <h3 align="center">I’m currently learning: Flutter and Dart</h3>
 
-- 📫 How to reach me **https://www.linkedin.com/feed/**
+- 📫 How to reach me **[https://www.linkedin.com/feed/](https://www.linkedin.com/in/mostafa-heidari-5473021b2/)**
 
 <p align="left">
 </p>
